@@ -1,6 +1,4 @@
-/** 
-BENZIANE AMIR P2103270 
-**/
+
 
 /**
 Exercice 1
