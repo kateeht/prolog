@@ -1,10 +1,4 @@
 
-
-
-
-
-/*Dimitrios STEPHANOU p2006277 */
-
 :- dynamic interdit/1.
 
 /*recherche(EtatCourant,EtatFinal,ListeTaboue,ListeOp) tous donnes sauf ListeOp */
