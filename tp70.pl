@@ -1,4 +1,3 @@
-/* STEPHANOU Dimitrios p2006277*/
 
 /* on donne les valeurs pour le nombre de pays (variables) et  les couleurs (domaines des variables) */
 
